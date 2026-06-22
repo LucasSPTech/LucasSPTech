@@ -3,7 +3,7 @@
 <h3>Statistics</h3>
 <div>
   <a href="https://github.com/LucasSPTech/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=LucasSPTech&show_icons=true&commits_year=2026&hide=contribs&theme=holi" alt="GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=LucasSPTech&show_icons=true&commits_year=2026&theme=holi" alt="GitHub Stats">
   </a>
   
   <a href="https://github.com/LucasSPTech/github-readme-stats">
