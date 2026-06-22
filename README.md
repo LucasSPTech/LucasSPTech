@@ -2,12 +2,12 @@
 
 <h3>Statistics</h3>
 <div>
-  <a href="https://github.com/LucasQvd/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=LucasQvd&show_icons=true&commits_year=2026&hide=contribs&theme=holi" alt="GitHub Stats">
+  <a href="https://github.com/LucasSPTech/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=LucasSPTech&show_icons=true&commits_year=2026&hide=contribs&theme=holi" alt="GitHub Stats">
   </a>
   
-  <a href="https://github.com/LucasQvd/github-readme-stats">
-    <img hspace="10" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasQvd&theme=holi" alt="Top Languages">
+  <a href="https://github.com/LucasSPTech/github-readme-stats">
+    <img hspace="10" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSPTech&theme=holi" alt="Top Languages">
   </a>
 </div>
 
